@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/gid-finland/static/css/main.fa23bfa5.css",
-    "main.js": "/gid-finland/static/js/main.df7580ee.js",
+    "main.css": "/gid-finland/static/css/main.09913dae.css",
+    "main.js": "/gid-finland/static/js/main.73e25dcb.js",
     "static/js/453.ea3a331e.chunk.js": "/gid-finland/static/js/453.ea3a331e.chunk.js",
+    "static/media/asm.pdf": "/gid-finland/static/media/asm.b2467615ffeb24f1bfec.pdf",
+    "static/media/login-background.png": "/gid-finland/static/media/login-background.4ecf6ce93ab05a8fe564.png",
     "static/media/airports.txt": "/gid-finland/static/media/airports.05129f2dfe991bdf9e9a.txt",
+    "static/media/fpl_guide.pdf": "/gid-finland/static/media/fpl_guide.ca32ba22b2572f1ccf47.pdf",
     "static/media/RobotoMono-Light.ttf": "/gid-finland/static/media/RobotoMono-Light.03b7a3da176506d8320d.ttf",
     "static/media/RobotoMono-Regular.ttf": "/gid-finland/static/media/RobotoMono-Regular.94ffabb10cbc81ee42ba.ttf",
     "static/media/RobotoMono-Medium.ttf": "/gid-finland/static/media/RobotoMono-Medium.275e41b58d96111c1152.ttf",
+    "static/media/vatsca.svg": "/gid-finland/static/media/vatsca.46d2c4144e7a163339b227774ead876c.svg",
     "static/media/wind.svg": "/gid-finland/static/media/wind.d8f7d82e8aa047c18544f0433ea2120b.svg",
+    "static/media/headset.svg": "/gid-finland/static/media/headset.8e3ff2a5423ff525ab02a64fea17593d.svg",
     "static/media/traffic.svg": "/gid-finland/static/media/traffic.32dcd390020ab6201bbafd866edc5246.svg",
     "static/media/vor.svg": "/gid-finland/static/media/vor.e4ece808b80f82143f8e126cc8b791a2.svg",
     "static/media/radar.svg": "/gid-finland/static/media/radar.4bd01779a7a9ae3e6d4de4b11c12bcc1.svg",
     "static/media/vlara-logo.svg": "/gid-finland/static/media/vlara-logo.b4c2c23040d0ec5aad7adb44a534284a.svg",
     "static/media/sigmet.svg": "/gid-finland/static/media/sigmet.a6b6d12e7a29caffbd88ee2f9aebd651.svg",
     "index.html": "/gid-finland/index.html",
-    "main.fa23bfa5.css.map": "/gid-finland/static/css/main.fa23bfa5.css.map",
-    "main.df7580ee.js.map": "/gid-finland/static/js/main.df7580ee.js.map",
+    "static/media/logout.svg": "/gid-finland/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
+    "main.09913dae.css.map": "/gid-finland/static/css/main.09913dae.css.map",
+    "main.73e25dcb.js.map": "/gid-finland/static/js/main.73e25dcb.js.map",
     "453.ea3a331e.chunk.js.map": "/gid-finland/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa23bfa5.css",
-    "static/js/main.df7580ee.js"
+    "static/css/main.09913dae.css",
+    "static/js/main.73e25dcb.js"
   ]
 }
