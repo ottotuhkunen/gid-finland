@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="9" height="9"><svg id="SvgjsSvg1156" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 9 9">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: #0a84ff;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M1.5,9h5.9c1,0,1.5-.5,1.5-1.5V1.5c0-1-.5-1.5-1.5-1.5H1.5C.5,0,0,.5,0,1.5v6c0,1,.5,1.5,1.5,1.5Z"></path>
+  <path class="st0" d="M3.6,7.3c-.2,0-.4-.2-.4-.4s.2-.4.4-.4h.6v-2.3h-.5c-.2,0-.4-.2-.4-.4s.2-.4.4-.4h.9c.3,0,.4.2.4.5v2.6h.6c.2,0,.4.2.4.4s-.2.4-.4.4h-2ZM4.5,2.8c-.4,0-.7-.3-.7-.7s.3-.7.7-.7.7.3.7.7-.3.7-.7.7Z"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>

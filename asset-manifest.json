@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gid-finland/static/css/main.09913dae.css",
-    "main.js": "/gid-finland/static/js/main.73e25dcb.js",
+    "main.css": "/gid-finland/static/css/main.45c6027f.css",
+    "main.js": "/gid-finland/static/js/main.0b0fa6cc.js",
     "static/js/453.ea3a331e.chunk.js": "/gid-finland/static/js/453.ea3a331e.chunk.js",
     "static/media/asm.pdf": "/gid-finland/static/media/asm.b2467615ffeb24f1bfec.pdf",
     "static/media/login-background.png": "/gid-finland/static/media/login-background.4ecf6ce93ab05a8fe564.png",
@@ -20,12 +20,12 @@
     "static/media/sigmet.svg": "/gid-finland/static/media/sigmet.a6b6d12e7a29caffbd88ee2f9aebd651.svg",
     "index.html": "/gid-finland/index.html",
     "static/media/logout.svg": "/gid-finland/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
-    "main.09913dae.css.map": "/gid-finland/static/css/main.09913dae.css.map",
-    "main.73e25dcb.js.map": "/gid-finland/static/js/main.73e25dcb.js.map",
+    "main.45c6027f.css.map": "/gid-finland/static/css/main.45c6027f.css.map",
+    "main.0b0fa6cc.js.map": "/gid-finland/static/js/main.0b0fa6cc.js.map",
     "453.ea3a331e.chunk.js.map": "/gid-finland/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09913dae.css",
-    "static/js/main.73e25dcb.js"
+    "static/css/main.45c6027f.css",
+    "static/js/main.0b0fa6cc.js"
   ]
 }
