@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e25a87dc.css",
-    "main.js": "/static/js/main.b6da2787.js",
+    "main.js": "/static/js/main.f45a4249.js",
     "static/js/453.ea3a331e.chunk.js": "/static/js/453.ea3a331e.chunk.js",
     "static/media/loa-eett.pdf": "/static/media/loa-eett.59246f4ba0224003e31f.pdf",
     "static/media/loa-ulll.pdf": "/static/media/loa-ulll.da13a675c7ce7c918206.pdf",
@@ -30,11 +30,11 @@
     "static/media/minimize.svg": "/static/media/minimize.267082689ea42022c653738e92930ade.svg",
     "static/media/logout.svg": "/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
     "main.e25a87dc.css.map": "/static/css/main.e25a87dc.css.map",
-    "main.b6da2787.js.map": "/static/js/main.b6da2787.js.map",
+    "main.f45a4249.js.map": "/static/js/main.f45a4249.js.map",
     "453.ea3a331e.chunk.js.map": "/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e25a87dc.css",
-    "static/js/main.b6da2787.js"
+    "static/js/main.f45a4249.js"
   ]
 }
