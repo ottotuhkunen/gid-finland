@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.8561c4d9.css",
-    "main.js": "/static/js/main.2e80b14c.js",
+    "main.css": "/static/css/main.a74fb5ce.css",
+    "main.js": "/static/js/main.d5ffe762.js",
     "static/js/453.ea3a331e.chunk.js": "/static/js/453.ea3a331e.chunk.js",
     "static/media/loa-eett.pdf": "/static/media/loa-eett.59246f4ba0224003e31f.pdf",
     "static/media/loa-ulll.pdf": "/static/media/loa-ulll.da13a675c7ce7c918206.pdf",
     "static/media/asm.pdf": "/static/media/asm.b2467615ffeb24f1bfec.pdf",
     "static/media/login-background.png": "/static/media/login-background.4ecf6ce93ab05a8fe564.png",
-    "static/media/airports.txt": "/static/media/airports.05129f2dfe991bdf9e9a.txt",
     "static/media/fpl_guide.pdf": "/static/media/fpl_guide.ca32ba22b2572f1ccf47.pdf",
     "static/media/loa-esaa.pdf": "/static/media/loa-esaa.58ca305cc3630cc63e8b.pdf",
     "static/media/loa-enor.pdf": "/static/media/loa-enor.88f60df073cf6184b386.pdf",
@@ -20,8 +19,10 @@
     "static/media/open.svg": "/static/media/open.783e699d84d5fab571e7e0e4841d9bd3.svg",
     "static/media/headset.svg": "/static/media/headset.8e3ff2a5423ff525ab02a64fea17593d.svg",
     "static/media/traffic.svg": "/static/media/traffic.32dcd390020ab6201bbafd866edc5246.svg",
+    "static/media/map.svg": "/static/media/map.e5454afb9e890192373ac98621a4d615.svg",
     "static/media/vor.svg": "/static/media/vor.e4ece808b80f82143f8e126cc8b791a2.svg",
     "static/media/radar.svg": "/static/media/radar.4bd01779a7a9ae3e6d4de4b11c12bcc1.svg",
+    "static/media/user.svg": "/static/media/user.cac6b5328fa8228915963baeb9686f2a.svg",
     "static/media/vlara-logo.svg": "/static/media/vlara-logo.b4c2c23040d0ec5aad7adb44a534284a.svg",
     "static/media/sigmet.svg": "/static/media/sigmet.a6b6d12e7a29caffbd88ee2f9aebd651.svg",
     "static/media/close.svg": "/static/media/close.ae1dcd3d61d5704ad1ce3609237d9881.svg",
@@ -30,12 +31,12 @@
     "static/media/maximize.svg": "/static/media/maximize.1dfb864408343c9a805f55d96a816398.svg",
     "static/media/minimize.svg": "/static/media/minimize.267082689ea42022c653738e92930ade.svg",
     "static/media/logout.svg": "/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
-    "main.8561c4d9.css.map": "/static/css/main.8561c4d9.css.map",
-    "main.2e80b14c.js.map": "/static/js/main.2e80b14c.js.map",
+    "main.a74fb5ce.css.map": "/static/css/main.a74fb5ce.css.map",
+    "main.d5ffe762.js.map": "/static/js/main.d5ffe762.js.map",
     "453.ea3a331e.chunk.js.map": "/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8561c4d9.css",
-    "static/js/main.2e80b14c.js"
+    "static/css/main.a74fb5ce.css",
+    "static/js/main.d5ffe762.js"
   ]
 }
