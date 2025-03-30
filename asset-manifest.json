@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eb8c336c.css",
-    "main.js": "/static/js/main.cf168284.js",
+    "main.js": "/static/js/main.611a4036.js",
     "static/js/453.ea3a331e.chunk.js": "/static/js/453.ea3a331e.chunk.js",
     "static/media/loa-eett.pdf": "/static/media/loa-eett.59246f4ba0224003e31f.pdf",
     "static/media/loa-ulll.pdf": "/static/media/loa-ulll.da13a675c7ce7c918206.pdf",
@@ -14,6 +14,7 @@
     "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.94ffabb10cbc81ee42ba.ttf",
     "static/media/RobotoMono-Medium.ttf": "/static/media/RobotoMono-Medium.275e41b58d96111c1152.ttf",
     "static/media/vatsca.svg": "/static/media/vatsca.46d2c4144e7a163339b227774ead876c.svg",
+    "static/media/airac.svg": "/static/media/airac.d6c66cf6614bf20b7516ac2e8f1ea320.svg",
     "static/media/wind.svg": "/static/media/wind.d8f7d82e8aa047c18544f0433ea2120b.svg",
     "static/media/rain.svg": "/static/media/rain.cdf3af74e570e3c310d1ccbe765477be.svg",
     "static/media/open.svg": "/static/media/open.783e699d84d5fab571e7e0e4841d9bd3.svg",
@@ -34,11 +35,11 @@
     "static/media/minimize.svg": "/static/media/minimize.267082689ea42022c653738e92930ade.svg",
     "static/media/logout.svg": "/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
     "main.eb8c336c.css.map": "/static/css/main.eb8c336c.css.map",
-    "main.cf168284.js.map": "/static/js/main.cf168284.js.map",
+    "main.611a4036.js.map": "/static/js/main.611a4036.js.map",
     "453.ea3a331e.chunk.js.map": "/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb8c336c.css",
-    "static/js/main.cf168284.js"
+    "static/js/main.611a4036.js"
   ]
 }
