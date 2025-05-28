@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93825fc7.css",
-    "main.js": "/static/js/main.d7fce992.js",
+    "main.js": "/static/js/main.0cd9ee4b.js",
     "static/js/453.ea3a331e.chunk.js": "/static/js/453.ea3a331e.chunk.js",
     "static/media/loa-eett.pdf": "/static/media/loa-eett.59246f4ba0224003e31f.pdf",
     "static/media/login-background.png": "/static/media/login-background.285558e8094e2ea348f9.png",
@@ -42,11 +42,11 @@
     "static/media/fullscreen.svg": "/static/media/fullscreen.20e9a630f8f16b40c2c4dd8aa942ef2d.svg",
     "static/media/logout.svg": "/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
     "main.93825fc7.css.map": "/static/css/main.93825fc7.css.map",
-    "main.d7fce992.js.map": "/static/js/main.d7fce992.js.map",
+    "main.0cd9ee4b.js.map": "/static/js/main.0cd9ee4b.js.map",
     "453.ea3a331e.chunk.js.map": "/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93825fc7.css",
-    "static/js/main.d7fce992.js"
+    "static/js/main.0cd9ee4b.js"
   ]
 }
