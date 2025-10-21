@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51309ac0.css",
-    "main.js": "/static/js/main.eb74201f.js",
+    "main.css": "/static/css/main.17efe7b8.css",
+    "main.js": "/static/js/main.a7791a6e.js",
     "static/js/453.ea3a331e.chunk.js": "/static/js/453.ea3a331e.chunk.js",
     "static/media/loa-eett.pdf": "/static/media/loa-eett.59246f4ba0224003e31f.pdf",
     "static/media/login-background.png": "/static/media/login-background.285558e8094e2ea348f9.png",
@@ -41,12 +41,12 @@
     "static/media/fullscreenexit.svg": "/static/media/fullscreenexit.b6b8b7f2ecc8a3617bf63af072a072b7.svg",
     "static/media/fullscreen.svg": "/static/media/fullscreen.20e9a630f8f16b40c2c4dd8aa942ef2d.svg",
     "static/media/logout.svg": "/static/media/logout.82c01557c9d4e322c01d304401a3aca0.svg",
-    "main.51309ac0.css.map": "/static/css/main.51309ac0.css.map",
-    "main.eb74201f.js.map": "/static/js/main.eb74201f.js.map",
+    "main.17efe7b8.css.map": "/static/css/main.17efe7b8.css.map",
+    "main.a7791a6e.js.map": "/static/js/main.a7791a6e.js.map",
     "453.ea3a331e.chunk.js.map": "/static/js/453.ea3a331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51309ac0.css",
-    "static/js/main.eb74201f.js"
+    "static/css/main.17efe7b8.css",
+    "static/js/main.a7791a6e.js"
   ]
 }
